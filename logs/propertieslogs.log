@@ -1,0 +1,43 @@
+[DEBUG] 2024-05-26 08:44:10.109 [main] ClassA - This is debug message
+[INFO ] 2024-05-26 08:44:10.112 [main] ClassA - This is info message
+[WARN ] 2024-05-26 08:44:10.113 [main] ClassA - This is warn message
+[ERROR] 2024-05-26 08:44:10.113 [main] ClassA - This is error message
+[FATAL] 2024-05-26 08:44:10.113 [main] ClassA - This is fatal message
+[DEBUG] 2024-05-26 08:45:09.271 [main] ClassA - This is debug message
+[INFO ] 2024-05-26 08:45:09.274 [main] ClassA - This is info message
+[WARN ] 2024-05-26 08:45:09.274 [main] ClassA - This is warn message
+[ERROR] 2024-05-26 08:45:09.275 [main] ClassA - This is error message
+[FATAL] 2024-05-26 08:45:09.277 [main] ClassA - This is fatal message
+[INFO ] 2024-05-26 08:48:55.129 [main] LoginPageExecution - Before Method
+[INFO ] 2024-05-26 08:49:05.153 [main] LoginPageExecution - After Method
+[INFO ] 2024-05-26 08:49:05.330 [main] LoginPageExecution - Before Method
+[INFO ] 2024-05-26 08:49:13.256 [main] LoginPageExecution - After Method
+[INFO ] 2024-05-26 08:49:13.419 [main] LoginPageExecution - Before Method
+[INFO ] 2024-05-26 08:49:21.508 [main] LoginPageExecution - After Method
+[INFO ] 2024-05-26 08:53:00.169 [main] LoginPageExecution - Before Method
+[ERROR] 2024-05-26 08:53:07.112 [main] LoginPageExecution - java.lang.ArithmeticException: / by zero
+[INFO ] 2024-05-26 08:53:07.116 [main] LoginPageExecution - After Method
+[INFO ] 2024-05-26 08:53:07.294 [main] LoginPageExecution - Before Method
+[ERROR] 2024-05-26 08:53:13.130 [main] LoginPageExecution - java.lang.ArithmeticException: / by zero
+[INFO ] 2024-05-26 08:53:13.132 [main] LoginPageExecution - After Method
+[INFO ] 2024-05-26 08:53:13.316 [main] LoginPageExecution - Before Method
+[ERROR] 2024-05-26 08:53:19.165 [main] LoginPageExecution - java.lang.ArithmeticException: / by zero
+[INFO ] 2024-05-26 08:53:19.167 [main] LoginPageExecution - After Method
+[INFO ] 2024-05-26 09:17:28.883 [main] LoginPageExecution - Before Method
+[ERROR] 2024-05-26 09:17:36.522 [main] LoginPageExecution - java.lang.ArithmeticException: / by zero
+[INFO ] 2024-05-26 09:17:36.524 [main] LoginPageExecution - After Method
+[INFO ] 2024-05-26 09:17:36.670 [main] LoginPageExecution - Before Method
+[ERROR] 2024-05-26 09:17:42.402 [main] LoginPageExecution - java.lang.ArithmeticException: / by zero
+[INFO ] 2024-05-26 09:17:42.404 [main] LoginPageExecution - After Method
+[INFO ] 2024-05-26 09:17:42.536 [main] LoginPageExecution - Before Method
+[ERROR] 2024-05-26 09:17:48.310 [main] LoginPageExecution - java.lang.ArithmeticException: / by zero
+[INFO ] 2024-05-26 09:17:48.313 [main] LoginPageExecution - After Method
+[INFO ] 2024-05-26 09:18:47.252 [main] LoginPageExecution - Before Method
+[ERROR] 2024-05-26 09:18:54.012 [main] LoginPageExecution - java.lang.ArithmeticException: / by zero
+[INFO ] 2024-05-26 09:18:54.015 [main] LoginPageExecution - After Method
+[INFO ] 2024-05-26 09:18:54.164 [main] LoginPageExecution - Before Method
+[ERROR] 2024-05-26 09:18:59.969 [main] LoginPageExecution - java.lang.ArithmeticException: / by zero
+[INFO ] 2024-05-26 09:18:59.971 [main] LoginPageExecution - After Method
+[INFO ] 2024-05-26 09:19:00.135 [main] LoginPageExecution - Before Method
+[ERROR] 2024-05-26 09:19:06.255 [main] LoginPageExecution - java.lang.ArithmeticException: / by zero
+[INFO ] 2024-05-26 09:19:06.257 [main] LoginPageExecution - After Method

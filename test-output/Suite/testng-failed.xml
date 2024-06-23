@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="2" parallel="methods" name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <parameter name="User" value="AiiTE"/>
+  <parameter name="Browser" value="Chrome"/>
+  <listeners>
+    <listener class-name="com.aiite.pageexecution.ListenerImp"/>
+  </listeners>
+  <test thread-count="2" parallel="methods" name="Test(failed)">
+    <classes>
+      <class name="com.aiite.pageexecution.SummaryPageExecution">
+        <methods>
+          <include name="beforeClass"/>
+          <include name="afterMethod"/>
+          <include name="tvSearch" invocation-numbers="0 0 0 0"/>
+          <include name="afterClass"/>
+        </methods>
+      </class> <!-- com.aiite.pageexecution.SummaryPageExecution -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
